@@ -1,0 +1,5 @@
+src/web/__azurite_db_blob__.json
+src/web/__azurite_db_blob_extent__.json
+src/web/__azurite_db_queue__.json
+src/web/__azurite_db_queue_extent__.json
+src/web/__azurite_db_table__.json
